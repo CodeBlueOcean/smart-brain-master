@@ -4,4 +4,4 @@
 2. Run `npm install`
 3. Run `npm start`
 
-<!-- Note: Added Security Measures -->
+<!-- Note: Added Security Measures and Improvements -->
